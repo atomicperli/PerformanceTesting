@@ -7,7 +7,7 @@ import scala.concurrent.duration._
 object Constants {
 
   //Select Data
-  val TestModel = System.getProperty("TestModel", "Micro")
+  val TestModel = System.getProperty("TestModel", "MediumA")
   val usercount = Integer.getInteger("numberOfUsers", 10).toInt
 
   //choose customer username
