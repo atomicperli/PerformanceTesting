@@ -1,0 +1,10 @@
+{
+  "simulation": "Simulations.AlternateNumbers.AvailableAlternateNumberList",
+  "simulationId": "availablealternatenumberlist",
+  "start": 1567191231943,
+  "description": "",
+  "scenarios": ["Get the List of all Available Alternate numbers"],
+  "assertions": [
+
+  ]
+}

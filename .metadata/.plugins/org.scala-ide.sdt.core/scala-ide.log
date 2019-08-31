@@ -1,0 +1,484 @@
+2019-08-24 23:37:02,883 ERROR [main] - System.err - [org.eclipse.pde.ui] error can't determine implemented interfaces of missing type org.eclipse.jdt.internal.core.manipulation.JavaElementLabelComposerCore
+ [Xlint:cantFindType]
+2019-08-24 23:37:02,962 ERROR [main] - System.err - [org.eclipse.jdt.launching] error can't determine implemented interfaces of missing type org.eclipse.jdt.internal.core.manipulation.JavaElementLabelComposerCore
+ [Xlint:cantFindType]
+2019-08-24 23:49:03,866  WARN [main] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-24 23:49:03,868  WARN [main] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-24 23:49:11,529 ERROR [main] - System.err - [org.eclipse.jdt.debug] error can't determine implemented interfaces of missing type org.eclipse.jdt.internal.core.manipulation.JavaElementLabelComposerCore
+ [Xlint:cantFindType]
+2019-08-24 23:49:38,125  WARN [main] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-24 23:49:38,126  WARN [main] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-24 23:49:39,398  WARN [main] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-24 23:49:39,398  WARN [main] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-24 23:49:40,629  WARN [Worker-12: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-24 23:49:40,644  WARN [Worker-12: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-24 23:49:40,894  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-24 23:49:40,894  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-24 23:50:21,748  WARN [main] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-24 23:50:21,748  WARN [main] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-24 23:50:22,228  WARN [main] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-24 23:50:22,228  WARN [main] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-24 23:50:22,245  WARN [Worker-8: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-24 23:50:22,246  WARN [Worker-8: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-24 23:50:23,079  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-24 23:50:23,080  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-24 23:51:36,590  WARN [Worker-12: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-24 23:51:36,590  WARN [Worker-12: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-24 23:52:15,618  WARN [Worker-12: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-24 23:52:15,618  WARN [Worker-12: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-24 23:53:17,068  WARN [Worker-10: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-24 23:53:17,069  WARN [Worker-10: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-24 23:53:17,552  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-24 23:53:17,552  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-24 23:54:30,216  WARN [Worker-10: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-24 23:54:30,217  WARN [Worker-10: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-24 23:54:31,148  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-24 23:54:31,149  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-24 23:54:54,714  WARN [main] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-24 23:54:54,714  WARN [main] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-24 23:54:54,916  WARN [Worker-12: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-24 23:54:54,917  WARN [Worker-12: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-24 23:55:34,086  WARN [Worker-17: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-24 23:55:34,087  WARN [Worker-17: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-24 23:55:34,456  WARN [Java indexing] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-24 23:55:34,456  WARN [Java indexing] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-24 23:55:52,544  WARN [Worker-10: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-24 23:55:52,544  WARN [Worker-10: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-24 23:56:05,603  WARN [Worker-15: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-24 23:56:05,605  WARN [Worker-15: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-24 23:56:09,694  WARN [Worker-18: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-24 23:56:09,695  WARN [Worker-18: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-24 23:56:15,103  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2019-08-24 23:56:22,537  WARN [Worker-16: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-24 23:56:22,537  WARN [Worker-16: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-24 23:56:23,562  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2019-08-24 23:56:23,766  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2019-08-24 23:57:48,287  WARN [Worker-15: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-24 23:57:48,288  WARN [Worker-15: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-24 23:58:19,426  WARN [Worker-10: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-24 23:58:19,426  WARN [Worker-10: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-25 00:00:16,646  WARN [main] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-25 00:00:16,646  WARN [main] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-25 00:00:16,815  WARN [Worker-17: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-25 00:00:16,815  WARN [Worker-17: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-25 00:00:38,595  WARN [Java indexing] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-25 00:00:38,596  WARN [Java indexing] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-25 00:00:39,072  WARN [Worker-8: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-25 00:00:39,072  WARN [Worker-8: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-25 00:00:44,877 ERROR [Text Viewer Hover Presenter] - System.err - Exception in thread "Text Viewer Hover Presenter"
+2019-08-25 00:00:44,878 ERROR [Text Viewer Hover Presenter] - System.err - java.lang.NoSuchMethodError: org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(Lorg/eclipse/jdt/internal/core/JavaProject;Lorg/eclipse/jdt/core/WorkingCopyOwner;)V
+2019-08-25 00:00:44,878 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.LocateSymbol.findPath$1(LocateSymbol.scala:53)
+2019-08-25 00:00:44,878 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.LocateSymbol.findSourceFile$1(LocateSymbol.scala:73)
+2019-08-25 00:00:44,878 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.LocateSymbol.findCompilationUnit(LocateSymbol.scala:75)
+2019-08-25 00:00:44,878 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.LocateSymbol.findCompilationUnit$(LocateSymbol.scala:18)
+2019-08-25 00:00:44,878 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.findCompilationUnit(ScalaPresentationCompiler.scala:54)
+2019-08-25 00:00:44,878 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.$anonfun$parsedDocComment$3(ScalaDoc.scala:51)
+2019-08-25 00:00:44,878 ERROR [Text Viewer Hover Presenter] - System.err - at scala.collection.immutable.List.flatMap(List.scala:335)
+2019-08-25 00:00:44,878 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.listFragments$1(ScalaDoc.scala:50)
+2019-08-25 00:00:44,878 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.$anonfun$parsedDocComment$7(ScalaDoc.scala:61)
+2019-08-25 00:00:44,878 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.flatMap(Option.scala:171)
+2019-08-25 00:00:44,878 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.$anonfun$parsedDocComment$2(ScalaDoc.scala:60)
+2019-08-25 00:00:44,878 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.$anonfun$withSourceFile$1(InteractiveCompilationUnit.scala:201)
+2019-08-25 00:00:44,878 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.$anonfun$internal$5(PresentationCompilerProxy.scala:101)
+2019-08-25 00:00:44,878 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.flatMap(Option.scala:171)
+2019-08-25 00:00:44,878 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:100)
+2019-08-25 00:00:44,878 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:58)
+2019-08-25 00:00:44,878 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.withSourceFile(InteractiveCompilationUnit.scala:201)
+2019-08-25 00:00:44,878 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.withSourceFile$(InteractiveCompilationUnit.scala:200)
+2019-08-25 00:00:44,878 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.jdt.model.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:71)
+2019-08-25 00:00:44,878 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.$anonfun$parsedDocComment$1(ScalaDoc.scala:48)
+2019-08-25 00:00:44,879 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.map(Option.scala:146)
+2019-08-25 00:00:44,879 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.parsedDocComment(ScalaDoc.scala:48)
+2019-08-25 00:00:44,879 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.parsedDocComment$(ScalaDoc.scala:45)
+2019-08-25 00:00:44,879 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.parsedDocComment(ScalaPresentationCompiler.scala:54)
+2019-08-25 00:00:44,879 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.$anonfun$getHoverInfo2$25(ScalaHoverImpl.scala:227)
+2019-08-25 00:00:44,879 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option$WithFilter.flatMap(Option.scala:171)
+2019-08-25 00:00:44,879 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.docComment$lzycompute$1(ScalaHoverImpl.scala:226)
+2019-08-25 00:00:44,879 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.docComment$1(ScalaHoverImpl.scala:205)
+2019-08-25 00:00:44,879 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.$anonfun$getHoverInfo2$2(ScalaHoverImpl.scala:238)
+2019-08-25 00:00:44,879 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.$anonfun$withSourceFile$1(InteractiveCompilationUnit.scala:201)
+2019-08-25 00:00:44,879 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.$anonfun$internal$5(PresentationCompilerProxy.scala:101)
+2019-08-25 00:00:44,879 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.flatMap(Option.scala:171)
+2019-08-25 00:00:44,879 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:100)
+2019-08-25 00:00:44,879 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:58)
+2019-08-25 00:00:44,879 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.withSourceFile(InteractiveCompilationUnit.scala:201)
+2019-08-25 00:00:44,879 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.withSourceFile$(InteractiveCompilationUnit.scala:200)
+2019-08-25 00:00:44,879 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.jdt.model.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:71)
+2019-08-25 00:00:44,879 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.$anonfun$getHoverInfo2$1(ScalaHoverImpl.scala:103)
+2019-08-25 00:00:44,879 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.map(Option.scala:146)
+2019-08-25 00:00:44,879 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.getHoverInfo2(ScalaHoverImpl.scala:101)
+2019-08-25 00:00:44,880 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.super$getHoverInfo2(TextHoverFactory.scala:53)
+2019-08-25 00:00:44,880 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.$anonfun$getHoverInfo2$6(TextHoverFactory.scala:53)
+2019-08-25 00:00:44,880 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.getOrElse(Option.scala:121)
+2019-08-25 00:00:44,880 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.$anonfun$getHoverInfo2$1(TextHoverFactory.scala:51)
+2019-08-25 00:00:44,880 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.map(Option.scala:146)
+2019-08-25 00:00:44,880 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.getHoverInfo2(TextHoverFactory.scala:37)
+2019-08-25 00:00:44,880 ERROR [Text Viewer Hover Presenter] - System.err - at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+2019-08-25 00:00:45,438  WARN [Worker-12: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-25 00:00:45,438  WARN [Worker-12: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-25 00:00:47,418  WARN [Worker-16: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-25 00:00:47,419  WARN [Worker-16: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-25 00:01:03,204  WARN [Worker-10: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-25 00:01:03,204  WARN [Worker-10: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-25 00:01:03,601  WARN [Java indexing] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-25 00:01:03,602  WARN [Java indexing] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-25 00:01:20,606  WARN [Worker-10: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-25 00:01:20,606  WARN [Worker-10: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-31 00:14:53,644 ERROR [main] - System.err - [org.eclipse.pde.ui] error can't determine implemented interfaces of missing type org.eclipse.jdt.internal.core.manipulation.JavaElementLabelComposerCore
+ [Xlint:cantFindType]
+2019-08-31 00:14:53,804 ERROR [main] - System.err - [org.eclipse.jdt.launching] error can't determine implemented interfaces of missing type org.eclipse.jdt.internal.core.manipulation.JavaElementLabelComposerCore
+ [Xlint:cantFindType]
+2019-08-31 00:14:55,975  WARN [main] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-31 00:14:55,976  WARN [main] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-31 00:14:55,983  WARN [main] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-31 00:14:55,983  WARN [main] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-31 00:15:54,801 ERROR [Text Viewer Hover Presenter] - System.err - Exception in thread "Text Viewer Hover Presenter"
+2019-08-31 00:15:54,802 ERROR [Text Viewer Hover Presenter] - System.err - java.lang.NoSuchMethodError: org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(Lorg/eclipse/jdt/internal/core/JavaProject;Lorg/eclipse/jdt/core/WorkingCopyOwner;)V
+2019-08-31 00:15:54,803 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.LocateSymbol.findPath$1(LocateSymbol.scala:53)
+2019-08-31 00:15:54,803 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.LocateSymbol.findSourceFile$1(LocateSymbol.scala:73)
+2019-08-31 00:15:54,803 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.LocateSymbol.findCompilationUnit(LocateSymbol.scala:75)
+2019-08-31 00:15:54,803 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.LocateSymbol.findCompilationUnit$(LocateSymbol.scala:18)
+2019-08-31 00:15:54,803 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.findCompilationUnit(ScalaPresentationCompiler.scala:54)
+2019-08-31 00:15:54,803 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.parsedDocComment(ScalaDoc.scala:48)
+2019-08-31 00:15:54,803 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.parsedDocComment$(ScalaDoc.scala:45)
+2019-08-31 00:15:54,803 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.parsedDocComment(ScalaPresentationCompiler.scala:54)
+2019-08-31 00:15:54,803 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.$anonfun$getHoverInfo2$25(ScalaHoverImpl.scala:227)
+2019-08-31 00:15:54,803 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option$WithFilter.flatMap(Option.scala:171)
+2019-08-31 00:15:54,803 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.docComment$lzycompute$1(ScalaHoverImpl.scala:226)
+2019-08-31 00:15:54,803 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.docComment$1(ScalaHoverImpl.scala:205)
+2019-08-31 00:15:54,803 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.$anonfun$getHoverInfo2$2(ScalaHoverImpl.scala:238)
+2019-08-31 00:15:54,803 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.$anonfun$withSourceFile$1(InteractiveCompilationUnit.scala:201)
+2019-08-31 00:15:54,803 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.$anonfun$internal$5(PresentationCompilerProxy.scala:101)
+2019-08-31 00:15:54,803 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.flatMap(Option.scala:171)
+2019-08-31 00:15:54,803 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:100)
+2019-08-31 00:15:54,803 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:58)
+2019-08-31 00:15:54,803 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.withSourceFile(InteractiveCompilationUnit.scala:201)
+2019-08-31 00:15:54,803 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.withSourceFile$(InteractiveCompilationUnit.scala:200)
+2019-08-31 00:15:54,803 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.jdt.model.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:71)
+2019-08-31 00:15:54,803 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.$anonfun$getHoverInfo2$1(ScalaHoverImpl.scala:103)
+2019-08-31 00:15:54,803 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.map(Option.scala:146)
+2019-08-31 00:15:54,803 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.getHoverInfo2(ScalaHoverImpl.scala:101)
+2019-08-31 00:15:54,803 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.super$getHoverInfo2(TextHoverFactory.scala:53)
+2019-08-31 00:15:54,804 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.$anonfun$getHoverInfo2$6(TextHoverFactory.scala:53)
+2019-08-31 00:15:54,804 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.getOrElse(Option.scala:121)
+2019-08-31 00:15:54,804 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.$anonfun$getHoverInfo2$1(TextHoverFactory.scala:51)
+2019-08-31 00:15:54,804 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.map(Option.scala:146)
+2019-08-31 00:15:54,804 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.getHoverInfo2(TextHoverFactory.scala:37)
+2019-08-31 00:15:54,804 ERROR [Text Viewer Hover Presenter] - System.err - at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+2019-08-31 00:15:56,517 ERROR [main] - System.err - [org.eclipse.jdt.debug] error can't determine implemented interfaces of missing type org.eclipse.jdt.internal.core.manipulation.JavaElementLabelComposerCore
+ [Xlint:cantFindType]
+2019-08-31 00:16:08,090 ERROR [Text Viewer Hover Presenter] - System.err - Exception in thread "Text Viewer Hover Presenter"
+2019-08-31 00:16:08,090 ERROR [Text Viewer Hover Presenter] - System.err - java.lang.NoSuchMethodError: org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(Lorg/eclipse/jdt/internal/core/JavaProject;Lorg/eclipse/jdt/core/WorkingCopyOwner;)V
+2019-08-31 00:16:08,090 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.LocateSymbol.findPath$1(LocateSymbol.scala:53)
+2019-08-31 00:16:08,090 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.LocateSymbol.findSourceFile$1(LocateSymbol.scala:73)
+2019-08-31 00:16:08,091 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.LocateSymbol.findCompilationUnit(LocateSymbol.scala:75)
+2019-08-31 00:16:08,091 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.LocateSymbol.findCompilationUnit$(LocateSymbol.scala:18)
+2019-08-31 00:16:08,091 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.findCompilationUnit(ScalaPresentationCompiler.scala:54)
+2019-08-31 00:16:08,091 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.$anonfun$parsedDocComment$3(ScalaDoc.scala:51)
+2019-08-31 00:16:08,091 ERROR [Text Viewer Hover Presenter] - System.err - at scala.collection.immutable.List.flatMap(List.scala:335)
+2019-08-31 00:16:08,091 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.listFragments$1(ScalaDoc.scala:50)
+2019-08-31 00:16:08,091 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.$anonfun$parsedDocComment$7(ScalaDoc.scala:61)
+2019-08-31 00:16:08,091 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.flatMap(Option.scala:171)
+2019-08-31 00:16:08,091 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.$anonfun$parsedDocComment$2(ScalaDoc.scala:60)
+2019-08-31 00:16:08,091 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.$anonfun$withSourceFile$1(InteractiveCompilationUnit.scala:201)
+2019-08-31 00:16:08,091 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.$anonfun$internal$5(PresentationCompilerProxy.scala:101)
+2019-08-31 00:16:08,091 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.flatMap(Option.scala:171)
+2019-08-31 00:16:08,091 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:100)
+2019-08-31 00:16:08,091 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:58)
+2019-08-31 00:16:08,091 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.withSourceFile(InteractiveCompilationUnit.scala:201)
+2019-08-31 00:16:08,091 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.withSourceFile$(InteractiveCompilationUnit.scala:200)
+2019-08-31 00:16:08,091 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.jdt.model.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:71)
+2019-08-31 00:16:08,091 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.$anonfun$parsedDocComment$1(ScalaDoc.scala:48)
+2019-08-31 00:16:08,091 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.map(Option.scala:146)
+2019-08-31 00:16:08,091 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.parsedDocComment(ScalaDoc.scala:48)
+2019-08-31 00:16:08,091 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.parsedDocComment$(ScalaDoc.scala:45)
+2019-08-31 00:16:08,091 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.parsedDocComment(ScalaPresentationCompiler.scala:54)
+2019-08-31 00:16:08,091 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.$anonfun$getHoverInfo2$25(ScalaHoverImpl.scala:227)
+2019-08-31 00:16:08,091 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option$WithFilter.flatMap(Option.scala:171)
+2019-08-31 00:16:08,091 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.docComment$lzycompute$1(ScalaHoverImpl.scala:226)
+2019-08-31 00:16:08,091 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.docComment$1(ScalaHoverImpl.scala:205)
+2019-08-31 00:16:08,091 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.$anonfun$getHoverInfo2$2(ScalaHoverImpl.scala:238)
+2019-08-31 00:16:08,091 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.$anonfun$withSourceFile$1(InteractiveCompilationUnit.scala:201)
+2019-08-31 00:16:08,091 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.$anonfun$internal$5(PresentationCompilerProxy.scala:101)
+2019-08-31 00:16:08,091 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.flatMap(Option.scala:171)
+2019-08-31 00:16:08,092 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:100)
+2019-08-31 00:16:08,092 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:58)
+2019-08-31 00:16:08,092 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.withSourceFile(InteractiveCompilationUnit.scala:201)
+2019-08-31 00:16:08,092 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.withSourceFile$(InteractiveCompilationUnit.scala:200)
+2019-08-31 00:16:08,092 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.jdt.model.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:71)
+2019-08-31 00:16:08,092 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.$anonfun$getHoverInfo2$1(ScalaHoverImpl.scala:103)
+2019-08-31 00:16:08,092 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.map(Option.scala:146)
+2019-08-31 00:16:08,092 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.getHoverInfo2(ScalaHoverImpl.scala:101)
+2019-08-31 00:16:08,092 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.super$getHoverInfo2(TextHoverFactory.scala:53)
+2019-08-31 00:16:08,092 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.$anonfun$getHoverInfo2$6(TextHoverFactory.scala:53)
+2019-08-31 00:16:08,092 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.getOrElse(Option.scala:121)
+2019-08-31 00:16:08,092 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.$anonfun$getHoverInfo2$1(TextHoverFactory.scala:51)
+2019-08-31 00:16:08,092 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.map(Option.scala:146)
+2019-08-31 00:16:08,092 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.getHoverInfo2(TextHoverFactory.scala:37)
+2019-08-31 00:16:08,092 ERROR [Text Viewer Hover Presenter] - System.err - at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+2019-08-31 00:16:08,911 ERROR [Text Viewer Hover Presenter] - System.err - Exception in thread "Text Viewer Hover Presenter"
+2019-08-31 00:16:08,911 ERROR [Text Viewer Hover Presenter] - System.err - java.lang.NoSuchMethodError: org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(Lorg/eclipse/jdt/internal/core/JavaProject;Lorg/eclipse/jdt/core/WorkingCopyOwner;)V
+2019-08-31 00:16:08,911 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.LocateSymbol.findPath$1(LocateSymbol.scala:53)
+2019-08-31 00:16:08,911 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.LocateSymbol.findSourceFile$1(LocateSymbol.scala:73)
+2019-08-31 00:16:08,911 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.LocateSymbol.findCompilationUnit(LocateSymbol.scala:75)
+2019-08-31 00:16:08,911 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.LocateSymbol.findCompilationUnit$(LocateSymbol.scala:18)
+2019-08-31 00:16:08,911 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.findCompilationUnit(ScalaPresentationCompiler.scala:54)
+2019-08-31 00:16:08,911 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.$anonfun$parsedDocComment$3(ScalaDoc.scala:51)
+2019-08-31 00:16:08,911 ERROR [Text Viewer Hover Presenter] - System.err - at scala.collection.immutable.List.flatMap(List.scala:335)
+2019-08-31 00:16:08,911 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.listFragments$1(ScalaDoc.scala:50)
+2019-08-31 00:16:08,911 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.$anonfun$parsedDocComment$7(ScalaDoc.scala:61)
+2019-08-31 00:16:08,911 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.flatMap(Option.scala:171)
+2019-08-31 00:16:08,911 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.$anonfun$parsedDocComment$2(ScalaDoc.scala:60)
+2019-08-31 00:16:08,911 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.$anonfun$withSourceFile$1(InteractiveCompilationUnit.scala:201)
+2019-08-31 00:16:08,911 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.$anonfun$internal$5(PresentationCompilerProxy.scala:101)
+2019-08-31 00:16:08,911 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.flatMap(Option.scala:171)
+2019-08-31 00:16:08,911 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:100)
+2019-08-31 00:16:08,911 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:58)
+2019-08-31 00:16:08,911 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.withSourceFile(InteractiveCompilationUnit.scala:201)
+2019-08-31 00:16:08,911 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.withSourceFile$(InteractiveCompilationUnit.scala:200)
+2019-08-31 00:16:08,911 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.jdt.model.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:71)
+2019-08-31 00:16:08,911 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.$anonfun$parsedDocComment$1(ScalaDoc.scala:48)
+2019-08-31 00:16:08,911 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.map(Option.scala:146)
+2019-08-31 00:16:08,911 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.parsedDocComment(ScalaDoc.scala:48)
+2019-08-31 00:16:08,911 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.parsedDocComment$(ScalaDoc.scala:45)
+2019-08-31 00:16:08,911 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.parsedDocComment(ScalaPresentationCompiler.scala:54)
+2019-08-31 00:16:08,911 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.$anonfun$getHoverInfo2$25(ScalaHoverImpl.scala:227)
+2019-08-31 00:16:08,911 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option$WithFilter.flatMap(Option.scala:171)
+2019-08-31 00:16:08,912 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.docComment$lzycompute$1(ScalaHoverImpl.scala:226)
+2019-08-31 00:16:08,912 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.docComment$1(ScalaHoverImpl.scala:205)
+2019-08-31 00:16:08,912 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.$anonfun$getHoverInfo2$2(ScalaHoverImpl.scala:238)
+2019-08-31 00:16:08,912 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.$anonfun$withSourceFile$1(InteractiveCompilationUnit.scala:201)
+2019-08-31 00:16:08,912 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.$anonfun$internal$5(PresentationCompilerProxy.scala:101)
+2019-08-31 00:16:08,912 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.flatMap(Option.scala:171)
+2019-08-31 00:16:08,912 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:100)
+2019-08-31 00:16:08,912 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:58)
+2019-08-31 00:16:08,912 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.withSourceFile(InteractiveCompilationUnit.scala:201)
+2019-08-31 00:16:08,912 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.withSourceFile$(InteractiveCompilationUnit.scala:200)
+2019-08-31 00:16:08,912 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.jdt.model.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:71)
+2019-08-31 00:16:08,912 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.$anonfun$getHoverInfo2$1(ScalaHoverImpl.scala:103)
+2019-08-31 00:16:08,912 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.map(Option.scala:146)
+2019-08-31 00:16:08,912 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.getHoverInfo2(ScalaHoverImpl.scala:101)
+2019-08-31 00:16:08,912 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.super$getHoverInfo2(TextHoverFactory.scala:53)
+2019-08-31 00:16:08,912 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.$anonfun$getHoverInfo2$6(TextHoverFactory.scala:53)
+2019-08-31 00:16:08,912 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.getOrElse(Option.scala:121)
+2019-08-31 00:16:08,912 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.$anonfun$getHoverInfo2$1(TextHoverFactory.scala:51)
+2019-08-31 00:16:08,912 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.map(Option.scala:146)
+2019-08-31 00:16:08,912 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.getHoverInfo2(TextHoverFactory.scala:37)
+2019-08-31 00:16:08,912 ERROR [Text Viewer Hover Presenter] - System.err - at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+2019-08-31 00:16:22,994  WARN [Worker-3: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-31 00:16:22,995  WARN [Worker-3: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-31 00:16:23,090  WARN [Worker-3: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-31 00:16:23,091  WARN [Worker-3: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-31 00:17:06,916  WARN [Worker-11: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-31 00:17:06,916  WARN [Worker-11: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-31 00:17:11,371  WARN [Worker-9: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-31 00:17:11,372  WARN [Worker-9: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-31 00:17:49,381  WARN [Worker-2: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-31 00:17:49,381  WARN [Worker-2: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-31 00:18:36,773  WARN [Worker-13: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-31 00:18:36,773  WARN [Worker-13: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-31 00:18:37,107  WARN [Java indexing] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-31 00:18:37,107  WARN [Java indexing] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-31 00:18:37,717  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2019-08-31 00:18:38,273  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2019-08-31 00:18:38,525  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2019-08-31 00:18:43,339 ERROR [Text Viewer Hover Presenter] - System.err - Exception in thread "Text Viewer Hover Presenter"
+2019-08-31 00:18:43,339 ERROR [Text Viewer Hover Presenter] - System.err - java.lang.NoSuchMethodError: org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(Lorg/eclipse/jdt/internal/core/JavaProject;Lorg/eclipse/jdt/core/WorkingCopyOwner;)V
+2019-08-31 00:18:43,339 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.LocateSymbol.findPath$1(LocateSymbol.scala:53)
+2019-08-31 00:18:43,339 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.LocateSymbol.findSourceFile$1(LocateSymbol.scala:73)
+2019-08-31 00:18:43,339 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.LocateSymbol.findCompilationUnit(LocateSymbol.scala:75)
+2019-08-31 00:18:43,339 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.LocateSymbol.findCompilationUnit$(LocateSymbol.scala:18)
+2019-08-31 00:18:43,339 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.findCompilationUnit(ScalaPresentationCompiler.scala:54)
+2019-08-31 00:18:43,340 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.$anonfun$parsedDocComment$3(ScalaDoc.scala:51)
+2019-08-31 00:18:43,340 ERROR [Text Viewer Hover Presenter] - System.err - at scala.collection.immutable.List.flatMap(List.scala:335)
+2019-08-31 00:18:43,340 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.listFragments$1(ScalaDoc.scala:50)
+2019-08-31 00:18:43,340 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.$anonfun$parsedDocComment$7(ScalaDoc.scala:61)
+2019-08-31 00:18:43,340 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.flatMap(Option.scala:171)
+2019-08-31 00:18:43,340 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.$anonfun$parsedDocComment$2(ScalaDoc.scala:60)
+2019-08-31 00:18:43,340 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.$anonfun$withSourceFile$1(InteractiveCompilationUnit.scala:201)
+2019-08-31 00:18:43,340 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.$anonfun$internal$5(PresentationCompilerProxy.scala:101)
+2019-08-31 00:18:43,340 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.flatMap(Option.scala:171)
+2019-08-31 00:18:43,340 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:100)
+2019-08-31 00:18:43,340 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:58)
+2019-08-31 00:18:43,340 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.withSourceFile(InteractiveCompilationUnit.scala:201)
+2019-08-31 00:18:43,340 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.withSourceFile$(InteractiveCompilationUnit.scala:200)
+2019-08-31 00:18:43,340 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.jdt.model.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:71)
+2019-08-31 00:18:43,340 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.$anonfun$parsedDocComment$1(ScalaDoc.scala:48)
+2019-08-31 00:18:43,340 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.map(Option.scala:146)
+2019-08-31 00:18:43,340 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.parsedDocComment(ScalaDoc.scala:48)
+2019-08-31 00:18:43,340 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.parsedDocComment$(ScalaDoc.scala:45)
+2019-08-31 00:18:43,341 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.parsedDocComment(ScalaPresentationCompiler.scala:54)
+2019-08-31 00:18:43,341 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.$anonfun$getHoverInfo2$25(ScalaHoverImpl.scala:227)
+2019-08-31 00:18:43,341 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option$WithFilter.flatMap(Option.scala:171)
+2019-08-31 00:18:43,341 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.docComment$lzycompute$1(ScalaHoverImpl.scala:226)
+2019-08-31 00:18:43,341 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.docComment$1(ScalaHoverImpl.scala:205)
+2019-08-31 00:18:43,341 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.$anonfun$getHoverInfo2$2(ScalaHoverImpl.scala:238)
+2019-08-31 00:18:43,341 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.$anonfun$withSourceFile$1(InteractiveCompilationUnit.scala:201)
+2019-08-31 00:18:43,341 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.$anonfun$internal$5(PresentationCompilerProxy.scala:101)
+2019-08-31 00:18:43,341 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.flatMap(Option.scala:171)
+2019-08-31 00:18:43,341 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:100)
+2019-08-31 00:18:43,341 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:58)
+2019-08-31 00:18:43,341 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.withSourceFile(InteractiveCompilationUnit.scala:201)
+2019-08-31 00:18:43,341 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.withSourceFile$(InteractiveCompilationUnit.scala:200)
+2019-08-31 00:18:43,341 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.jdt.model.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:71)
+2019-08-31 00:18:43,341 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.$anonfun$getHoverInfo2$1(ScalaHoverImpl.scala:103)
+2019-08-31 00:18:43,342 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.map(Option.scala:146)
+2019-08-31 00:18:43,342 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.getHoverInfo2(ScalaHoverImpl.scala:101)
+2019-08-31 00:18:43,342 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.super$getHoverInfo2(TextHoverFactory.scala:53)
+2019-08-31 00:18:43,342 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.$anonfun$getHoverInfo2$6(TextHoverFactory.scala:53)
+2019-08-31 00:18:43,342 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.getOrElse(Option.scala:121)
+2019-08-31 00:18:43,342 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.$anonfun$getHoverInfo2$1(TextHoverFactory.scala:51)
+2019-08-31 00:18:43,342 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.map(Option.scala:146)
+2019-08-31 00:18:43,342 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.getHoverInfo2(TextHoverFactory.scala:37)
+2019-08-31 00:18:43,342 ERROR [Text Viewer Hover Presenter] - System.err - at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+2019-08-31 00:19:02,859  WARN [Worker-1: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-31 00:19:02,860  WARN [Worker-1: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-31 00:19:03,479  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-31 00:19:03,479  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-31 00:19:03,830  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2019-08-31 00:19:04,150  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2019-08-31 00:19:11,137  WARN [Worker-13: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-31 00:19:11,137  WARN [Worker-13: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-31 00:19:11,456  WARN [Java indexing] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-31 00:19:11,456  WARN [Java indexing] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-31 00:19:17,870  WARN [Worker-3: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-31 00:19:17,870  WARN [Worker-3: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-31 00:19:20,643  WARN [Worker-11: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-31 00:19:20,643  WARN [Worker-11: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-31 00:19:23,733  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2019-08-31 00:19:23,936  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2019-08-31 00:19:29,784 ERROR [Text Viewer Hover Presenter] - System.err - Exception in thread "Text Viewer Hover Presenter"
+2019-08-31 00:19:29,784 ERROR [Text Viewer Hover Presenter] - System.err - java.lang.NoSuchMethodError: org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(Lorg/eclipse/jdt/internal/core/JavaProject;Lorg/eclipse/jdt/core/WorkingCopyOwner;)V
+2019-08-31 00:19:29,784 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.LocateSymbol.findPath$1(LocateSymbol.scala:53)
+2019-08-31 00:19:29,784 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.LocateSymbol.findSourceFile$1(LocateSymbol.scala:73)
+2019-08-31 00:19:29,784 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.LocateSymbol.findCompilationUnit(LocateSymbol.scala:75)
+2019-08-31 00:19:29,784 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.LocateSymbol.findCompilationUnit$(LocateSymbol.scala:18)
+2019-08-31 00:19:29,785 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.findCompilationUnit(ScalaPresentationCompiler.scala:54)
+2019-08-31 00:19:29,785 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.parsedDocComment(ScalaDoc.scala:48)
+2019-08-31 00:19:29,785 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.parsedDocComment$(ScalaDoc.scala:45)
+2019-08-31 00:19:29,785 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.parsedDocComment(ScalaPresentationCompiler.scala:54)
+2019-08-31 00:19:29,785 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.$anonfun$getHoverInfo2$25(ScalaHoverImpl.scala:227)
+2019-08-31 00:19:29,785 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option$WithFilter.flatMap(Option.scala:171)
+2019-08-31 00:19:29,785 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.docComment$lzycompute$1(ScalaHoverImpl.scala:226)
+2019-08-31 00:19:29,785 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.docComment$1(ScalaHoverImpl.scala:205)
+2019-08-31 00:19:29,785 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.$anonfun$getHoverInfo2$2(ScalaHoverImpl.scala:238)
+2019-08-31 00:19:29,785 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.$anonfun$withSourceFile$1(InteractiveCompilationUnit.scala:201)
+2019-08-31 00:19:29,785 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.$anonfun$internal$5(PresentationCompilerProxy.scala:101)
+2019-08-31 00:19:29,785 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.flatMap(Option.scala:171)
+2019-08-31 00:19:29,785 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:100)
+2019-08-31 00:19:29,785 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:58)
+2019-08-31 00:19:29,785 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.withSourceFile(InteractiveCompilationUnit.scala:201)
+2019-08-31 00:19:29,785 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.withSourceFile$(InteractiveCompilationUnit.scala:200)
+2019-08-31 00:19:29,785 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.jdt.model.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:71)
+2019-08-31 00:19:29,785 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.$anonfun$getHoverInfo2$1(ScalaHoverImpl.scala:103)
+2019-08-31 00:19:29,785 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.map(Option.scala:146)
+2019-08-31 00:19:29,785 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.getHoverInfo2(ScalaHoverImpl.scala:101)
+2019-08-31 00:19:29,785 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.super$getHoverInfo2(TextHoverFactory.scala:53)
+2019-08-31 00:19:29,785 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.$anonfun$getHoverInfo2$6(TextHoverFactory.scala:53)
+2019-08-31 00:19:29,785 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.getOrElse(Option.scala:121)
+2019-08-31 00:19:29,785 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.$anonfun$getHoverInfo2$1(TextHoverFactory.scala:51)
+2019-08-31 00:19:29,785 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.map(Option.scala:146)
+2019-08-31 00:19:29,785 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.getHoverInfo2(TextHoverFactory.scala:37)
+2019-08-31 00:19:29,785 ERROR [Text Viewer Hover Presenter] - System.err - at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+2019-08-31 00:19:46,180 ERROR [Text Viewer Hover Presenter] - System.err - Exception in thread "Text Viewer Hover Presenter"
+2019-08-31 00:19:46,180 ERROR [Text Viewer Hover Presenter] - System.err - java.lang.NoSuchMethodError: org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(Lorg/eclipse/jdt/internal/core/JavaProject;Lorg/eclipse/jdt/core/WorkingCopyOwner;)V
+2019-08-31 00:19:46,180 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.LocateSymbol.findPath$1(LocateSymbol.scala:53)
+2019-08-31 00:19:46,180 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.LocateSymbol.findSourceFile$1(LocateSymbol.scala:73)
+2019-08-31 00:19:46,180 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.LocateSymbol.findCompilationUnit(LocateSymbol.scala:75)
+2019-08-31 00:19:46,180 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.LocateSymbol.findCompilationUnit$(LocateSymbol.scala:18)
+2019-08-31 00:19:46,180 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.findCompilationUnit(ScalaPresentationCompiler.scala:54)
+2019-08-31 00:19:46,180 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.parsedDocComment(ScalaDoc.scala:48)
+2019-08-31 00:19:46,180 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.parsedDocComment$(ScalaDoc.scala:45)
+2019-08-31 00:19:46,181 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.parsedDocComment(ScalaPresentationCompiler.scala:54)
+2019-08-31 00:19:46,181 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.$anonfun$getHoverInfo2$25(ScalaHoverImpl.scala:227)
+2019-08-31 00:19:46,181 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option$WithFilter.flatMap(Option.scala:171)
+2019-08-31 00:19:46,181 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.docComment$lzycompute$1(ScalaHoverImpl.scala:226)
+2019-08-31 00:19:46,181 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.docComment$1(ScalaHoverImpl.scala:205)
+2019-08-31 00:19:46,181 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.$anonfun$getHoverInfo2$2(ScalaHoverImpl.scala:238)
+2019-08-31 00:19:46,181 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.$anonfun$withSourceFile$1(InteractiveCompilationUnit.scala:201)
+2019-08-31 00:19:46,181 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.$anonfun$internal$5(PresentationCompilerProxy.scala:101)
+2019-08-31 00:19:46,181 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.flatMap(Option.scala:171)
+2019-08-31 00:19:46,181 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:100)
+2019-08-31 00:19:46,181 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:58)
+2019-08-31 00:19:46,181 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.withSourceFile(InteractiveCompilationUnit.scala:201)
+2019-08-31 00:19:46,181 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.withSourceFile$(InteractiveCompilationUnit.scala:200)
+2019-08-31 00:19:46,181 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.jdt.model.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:71)
+2019-08-31 00:19:46,181 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.$anonfun$getHoverInfo2$1(ScalaHoverImpl.scala:103)
+2019-08-31 00:19:46,181 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.map(Option.scala:146)
+2019-08-31 00:19:46,181 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.getHoverInfo2(ScalaHoverImpl.scala:101)
+2019-08-31 00:19:46,181 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.super$getHoverInfo2(TextHoverFactory.scala:53)
+2019-08-31 00:19:46,181 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.$anonfun$getHoverInfo2$6(TextHoverFactory.scala:53)
+2019-08-31 00:19:46,181 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.getOrElse(Option.scala:121)
+2019-08-31 00:19:46,181 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.$anonfun$getHoverInfo2$1(TextHoverFactory.scala:51)
+2019-08-31 00:19:46,181 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.map(Option.scala:146)
+2019-08-31 00:19:46,181 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.getHoverInfo2(TextHoverFactory.scala:37)
+2019-08-31 00:19:46,181 ERROR [Text Viewer Hover Presenter] - System.err - at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+2019-08-31 00:19:51,350  WARN [Worker-2: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-31 00:19:51,350  WARN [Worker-2: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-31 00:20:18,909  WARN [Java indexing] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-31 00:20:18,909  WARN [Java indexing] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-31 00:20:20,007  WARN [Worker-13: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-31 00:20:20,008  WARN [Worker-13: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-31 00:20:20,039  WARN [Worker-13: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-31 00:20:20,039  WARN [Worker-13: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-31 00:20:38,425  WARN [Worker-10: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-31 00:20:38,425  WARN [Worker-10: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-31 00:22:27,271  WARN [Worker-10: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-31 00:22:27,271  WARN [Worker-10: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-31 00:22:27,939  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-31 00:22:27,939  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-31 00:23:04,880  WARN [Worker-7: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-31 00:23:04,880  WARN [Worker-7: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-31 00:23:10,936  WARN [Worker-0: Building workspace] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-31 00:23:10,936  WARN [Worker-0: Building workspace] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-31 00:23:41,522  WARN [Worker-8: Launching Engine$] - ScalaProject - Project REPAPI has platform default sourceLevel.
+2019-08-31 00:23:41,523  WARN [Worker-8: Launching Engine$] - ScalaProject - Project REPAPI runs on platform default installation.
+2019-08-31 00:31:14,267 ERROR [Text Viewer Hover Presenter] - System.err - Exception in thread "Text Viewer Hover Presenter"
+2019-08-31 00:31:14,268 ERROR [Text Viewer Hover Presenter] - System.err - java.lang.NoSuchMethodError: org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(Lorg/eclipse/jdt/internal/core/JavaProject;Lorg/eclipse/jdt/core/WorkingCopyOwner;)V
+2019-08-31 00:31:14,268 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.LocateSymbol.findPath$1(LocateSymbol.scala:53)
+2019-08-31 00:31:14,269 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.LocateSymbol.findSourceFile$1(LocateSymbol.scala:73)
+2019-08-31 00:31:14,269 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.LocateSymbol.findCompilationUnit(LocateSymbol.scala:75)
+2019-08-31 00:31:14,269 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.LocateSymbol.findCompilationUnit$(LocateSymbol.scala:18)
+2019-08-31 00:31:14,269 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.findCompilationUnit(ScalaPresentationCompiler.scala:54)
+2019-08-31 00:31:14,269 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.$anonfun$parsedDocComment$3(ScalaDoc.scala:51)
+2019-08-31 00:31:14,269 ERROR [Text Viewer Hover Presenter] - System.err - at scala.collection.immutable.List.flatMap(List.scala:335)
+2019-08-31 00:31:14,269 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.listFragments$1(ScalaDoc.scala:50)
+2019-08-31 00:31:14,269 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.$anonfun$parsedDocComment$7(ScalaDoc.scala:61)
+2019-08-31 00:31:14,269 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.flatMap(Option.scala:171)
+2019-08-31 00:31:14,269 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.$anonfun$parsedDocComment$2(ScalaDoc.scala:60)
+2019-08-31 00:31:14,269 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.$anonfun$withSourceFile$1(InteractiveCompilationUnit.scala:201)
+2019-08-31 00:31:14,269 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.$anonfun$internal$5(PresentationCompilerProxy.scala:101)
+2019-08-31 00:31:14,269 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.flatMap(Option.scala:171)
+2019-08-31 00:31:14,269 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:100)
+2019-08-31 00:31:14,269 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:58)
+2019-08-31 00:31:14,269 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.withSourceFile(InteractiveCompilationUnit.scala:201)
+2019-08-31 00:31:14,269 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.withSourceFile$(InteractiveCompilationUnit.scala:200)
+2019-08-31 00:31:14,269 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.jdt.model.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:71)
+2019-08-31 00:31:14,270 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.$anonfun$parsedDocComment$1(ScalaDoc.scala:48)
+2019-08-31 00:31:14,270 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.map(Option.scala:146)
+2019-08-31 00:31:14,270 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.parsedDocComment(ScalaDoc.scala:48)
+2019-08-31 00:31:14,270 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.parsedDocComment$(ScalaDoc.scala:45)
+2019-08-31 00:31:14,270 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.parsedDocComment(ScalaPresentationCompiler.scala:54)
+2019-08-31 00:31:14,270 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.$anonfun$getHoverInfo2$25(ScalaHoverImpl.scala:227)
+2019-08-31 00:31:14,270 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option$WithFilter.flatMap(Option.scala:171)
+2019-08-31 00:31:14,270 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.docComment$lzycompute$1(ScalaHoverImpl.scala:226)
+2019-08-31 00:31:14,270 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.docComment$1(ScalaHoverImpl.scala:205)
+2019-08-31 00:31:14,270 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.$anonfun$getHoverInfo2$2(ScalaHoverImpl.scala:238)
+2019-08-31 00:31:14,270 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.$anonfun$withSourceFile$1(InteractiveCompilationUnit.scala:201)
+2019-08-31 00:31:14,270 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.$anonfun$internal$5(PresentationCompilerProxy.scala:101)
+2019-08-31 00:31:14,270 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.flatMap(Option.scala:171)
+2019-08-31 00:31:14,270 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:100)
+2019-08-31 00:31:14,270 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:58)
+2019-08-31 00:31:14,270 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.withSourceFile(InteractiveCompilationUnit.scala:201)
+2019-08-31 00:31:14,270 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.withSourceFile$(InteractiveCompilationUnit.scala:200)
+2019-08-31 00:31:14,270 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.jdt.model.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:71)
+2019-08-31 00:31:14,270 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.$anonfun$getHoverInfo2$1(ScalaHoverImpl.scala:103)
+2019-08-31 00:31:14,270 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.map(Option.scala:146)
+2019-08-31 00:31:14,270 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.getHoverInfo2(ScalaHoverImpl.scala:101)
+2019-08-31 00:31:14,270 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.super$getHoverInfo2(TextHoverFactory.scala:53)
+2019-08-31 00:31:14,270 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.$anonfun$getHoverInfo2$6(TextHoverFactory.scala:53)
+2019-08-31 00:31:14,270 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.getOrElse(Option.scala:121)
+2019-08-31 00:31:14,270 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.$anonfun$getHoverInfo2$1(TextHoverFactory.scala:51)
+2019-08-31 00:31:14,271 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.map(Option.scala:146)
+2019-08-31 00:31:14,271 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.getHoverInfo2(TextHoverFactory.scala:37)
+2019-08-31 00:31:14,271 ERROR [Text Viewer Hover Presenter] - System.err - at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
