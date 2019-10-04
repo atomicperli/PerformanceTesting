@@ -1,0 +1,63 @@
+1534775540
+{
+    "active": true,
+    "adminTrainSiteNames": [
+        "fogo21sanjose.webex.com"
+    ],
+    "avatarSyncEnabled": false,
+    "displayName": "Zeenie",
+    "emails": [
+        {
+            "primary": true,
+            "type": "work",
+            "value": "fogo21sanjose@gmail.com"
+        }
+    ],
+    "entitlements": [
+        "cloudmeetings",
+        "spark",
+        "spark-admin",
+        "spark-test-account",
+        "squared-call-initiation",
+        "squared-fusion-mgmt",
+        "webex-squared"
+    ],
+    "id": "81d88eb7-edce-4dd1-9705-d44220de8a77",
+    "meta": {
+        "created": "2018-05-07T13:15:30.222Z",
+        "lastLoginTime": "2018-08-20T14:31:32.467Z",
+        "lastModified": "2018-06-08T17:58:40.587Z",
+        "location": "https://identity.webex.com/identity/scim/92b5959e-4376-4e06-88a7-a93bf59ee5f4/v1/Users/81d88eb7-edce-4dd1-9705-d44220de8a77",
+        "organizationID": "92b5959e-4376-4e06-88a7-a93bf59ee5f4",
+        "version": "W/\"38961885260\""
+    },
+    "name": {
+        "familyName": "Louis",
+        "givenName": "Zeenie"
+    },
+    "roles": [
+        "id_full_admin"
+    ],
+    "schemas": [
+        "urn:scim:schemas:core:1.0",
+        "urn:scim:schemas:extension:cisco:commonidentity:1.0"
+    ],
+    "secretKey": "46d826dcfe7d256a19d5174e28387f1c87589a71eb03aeb8ed6f3b9330244c23e1804809b6522d7152b9fef70eda0331d720a8500c15ae3103b0e73f282fd611",
+    "sipAddresses": [
+        {
+            "primary": true,
+            "type": "cloud-calling",
+            "value": "fogo21sanjose@fogo21sanjose.call.wbx2.com"
+        }
+    ],
+    "trainSiteNames": [
+        "fogo21sanjose.webex.com"
+    ],
+    "userName": "fogo21sanjose@gmail.com",
+    "userPreferences": [
+        "SparkTOSAccept"
+    ],
+    "userSettings": [
+        "{\"spark.signUpDate\":\"1525717497032\"}"
+    ]
+}

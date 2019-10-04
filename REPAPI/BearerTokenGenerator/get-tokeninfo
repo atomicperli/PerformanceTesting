@@ -1,0 +1,20 @@
+#!/bin/bash
+
+bearertoken=`./userAuth "$1" "$2" | grep 'bearerToken' | cut -f2 -d " "`
+echo $bearertoken
+
+#url="https://identity.webex.com/idb/oauth2/tokeninfo"
+url="https://idbrokerbts.webex.com/idb/oauth2/v1/tokeninfo"
+
+start=$(date +%s)
+echo $start
+
+header="Content-type:application/x-www-form-urlencoded"
+header2="Accept: application/json"
+#header3="Host: identity.webex.com"
+header3="Host: idbroker.webex.com"
+
+#data='access_token=MzkyZWE4MWMtNGI0NC00YjI5LWJmODEtZTQyMTE5MGY1MTQ1NGJkNDdlZWQtYzk1'
+data='access_token='$bearertoken''
+echo $data
+curl -vvv -k  -H "$header" -H "$header2" -H "$header3" --data "$data" --user "Rd5f57d6b41e7185845025293cb0009787c0a8f6472e3e7f4994457066ebd8c9e":"b3a189c80afc705486eda9353d20a2ec5c9deff13cce7eb185e6f71875c3f447" $url | python -mjson.tool

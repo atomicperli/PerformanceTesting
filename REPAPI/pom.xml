@@ -127,6 +127,17 @@
         <artifactId>gatling-maven-plugin</artifactId>
         <version>${gatling-maven-plugin.version}</version>
                 <configuration>
+                <runMultipleSimulations>true</runMultipleSimulations>
+                <includes>
+                	<param>Simulations.AdminResource.CustomerAdminAccountDetails</param>
+                	<param>Simulations.AdminResource.CustomerAdminAddress</param>
+                	<param>Simulations.AdminResource.CustomerAdminAvailableSiteList</param>
+                	<param>Simulations.AdminResource.CustomerAdminMainContact</param>
+                	<param>Simulations.AdminResource.CustomerAdmins</param>
+                	<param>Simulations.AdminResource.CustomerAdminSiteList</param>
+                	<param>Simulations.AdminResource.CustomerAdminSiteListSiteName</param>
+                </includes>
+                <continueOnAssertionFailure>true</continueOnAssertionFailure>
                 <jvmArgs>
                     <jvmArg>-DnumberOfUsers=${numberOfUsers}</jvmArg>
                 </jvmArgs>

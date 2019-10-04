@@ -1,0 +1,149 @@
+1534798417
+{
+    "access_token": "MzkyZWE4MWMtNGI0NC00YjI5LWJmODEtZTQyMTE5MGY1MTQ1NGJkNDdlZWQtYzk1",
+    "cis_uuid": "4cc6a851-b9c2-4b6d-ab5f-c812de9df395",
+    "client_id": "C80fb9c7096bd8474627317ee1d7a817eff372ca9c9cee3ce43c3ea3e8d1511ec",
+    "expires_in": 21218,
+    "managedOrgs": [
+        {
+            "orgId": "93ae2bed-4414-46d5-94c3-44151a2d0fef",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "747727a7-819d-4d85-83c6-7a1f643c074e",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "653b67f8-56fc-44b3-8f0c-783546c67c7a",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "670261a4-5a1c-4c28-b78b-9b3b31f51c14",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "0d18a3c0-6e02-4baa-a2c9-8a1592f148ae",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "30dbfcca-dbca-4d29-ac4a-f2697d575828",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "53eeea93-25f4-46e8-913c-46c1655b14f8",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "7842be95-67d7-4445-8af6-a78186048920",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "cd60a09a-e769-4beb-b420-7471e3083905",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "d364e436-97a9-407e-b019-39a45b199226",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "a4082387-26da-4485-b2da-e7e283f7eac6",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "7c539ab6-2faa-4b6a-9845-6fb16e40a5e5",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "289799bf-7371-4736-9281-a79731edbbb8",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "a069c090-8aeb-4cca-a5e2-e6ea2cc56f93",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "d8d4810e-d91e-4400-98b0-785f8e58a161",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "fe2ace9c-4da9-46d7-adce-08856439c102",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "8da37e38-552b-4039-8a2e-e458c38a01f7",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "67253b5c-d613-44aa-9ab6-c63eb758cf1f",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "9a277f14-b77d-4eb0-844f-cce2b79e1819",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "e756dea5-5a29-46db-ba38-4332a3f2891c",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "39e6117a-5b41-4a69-a1bf-fdb09b8cc010",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "83611a33-47fe-4513-b8e3-5f193bd8f744",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "6bacd3fd-3656-43ec-b852-cc2928e3fd47",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "f715e5fa-8634-429c-9c47-e258b247a96a",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "5af61d74-bc5b-467c-8363-f96f7f4dda37",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "8928ee13-9987-4997-9f43-7119e2dedbb7",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "89ded7cd-ee2f-45f6-a17c-7450fa88c646",
+            "role": "id_full_admin"
+        }
+    ],
+    "realm": "6e09fcb9-6b8b-4101-8bf8-16e3f2dedbac",
+    "reference_id": "c5827180-cf6d-4c02-9d05-95b7c1ccb23f",
+    "scope": [
+        "spark-admin:customers_read",
+        "Identity:Organization",
+        "spark-admin:people_write",
+        "spark:memberships_write",
+        "Identity:Config",
+        "spark-admin:organizations_read",
+        "spark:messages_read",
+        "webexsquare:billing",
+        "spark:memberships_read",
+        "spark:kms",
+        "spark:applications_write",
+        "spark:rooms_read",
+        "spark:applications_read",
+        "spark-admin:logs_read",
+        "cloudMeetings:login",
+        "spark-admin:licenses_read",
+        "Identity:SCIM",
+        "spark-admin:customers_write",
+        "spark-admin:people_read",
+        "Identity:OAuthToken",
+        "webexsquare:admin"
+    ],
+    "token_type": "Bearer",
+    "user_id": "fogo21sanjose+wow@gmail.com",
+    "user_info": {
+        "client_session_id": "3e3631cf-8b58-4fef-82b6-f2dceddc2416"
+    },
+    "user_modify_timestamp": "20180820203847.358Z",
+    "user_type": "user"
+}
