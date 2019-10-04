@@ -1,0 +1,54 @@
+1543419070
+{
+    "active": true,
+    "avatarSyncEnabled": false,
+    "displayName": "fogo21sanjose+nov26t3usera@gmail.com",
+    "emails": [
+        {
+            "primary": true,
+            "type": "work",
+            "value": "fogo21sanjose+nov26t3usera@gmail.com"
+        }
+    ],
+    "entitlements": [
+        "bc-sp-standard",
+        "spark",
+        "spark-test-account",
+        "squared-call-initiation",
+        "webex-squared"
+    ],
+    "id": "d4f58f0a-a80a-4478-ad5e-ca528fe42144",
+    "licenseID": [
+        "SPSTD_e3e80252-149e-4288-b41c-c12fbe2a5e42"
+    ],
+    "meta": {
+        "created": "3915-02-01T00:00:00.000Z",
+        "lastLoginTime": "2018-11-28T15:31:09.108Z",
+        "location": "https://identitybts.webex.com/identity/scim/e41e216d-3159-455a-aeb5-aaf4e61243ff/v1/Users/d4f58f0a-a80a-4478-ad5e-ca528fe42144",
+        "organizationID": "e41e216d-3159-455a-aeb5-aaf4e61243ff",
+        "version": "W/\"46861197837\""
+    },
+    "phoneNumbers": [
+        {
+            "type": "work",
+            "value": "+421905598348"
+        }
+    ],
+    "schemas": [
+        "urn:scim:schemas:core:1.0",
+        "urn:scim:schemas:extension:cisco:commonidentity:1.0"
+    ],
+    "secretKey": "d6697d0fbd60f1e187c039823af30c0fb4ec1b6f4f02185025fb5878a17e1f7f418fe3cd926a6add969bda48c0f33c1965e945f934fee4352508f7cc908ae4fb",
+    "sipAddresses": [
+        {
+            "primary": true,
+            "type": "cloud-calling",
+            "value": "fogo21sanjose+nov26t3usera@sclara.call.wbx2.com"
+        }
+    ],
+    "userName": "fogo21sanjose+nov26t3usera@gmail.com",
+    "userPreferences": [
+        "SparkHideLaunch",
+        "SparkTOSAccept"
+    ]
+}

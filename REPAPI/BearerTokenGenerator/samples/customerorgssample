@@ -1,0 +1,11 @@
+1543419203
+{
+    "clusterId": "A52D",
+    "dirsyncEnabled": false,
+    "displayName": "Atlas_TestNov26Multi",
+    "geoGroup": "North America",
+    "orgSettings": [
+        "{\"reportingSiteUrl\":\"\",\"reportingSiteDesc\":\"\",\"allowOnBehalfFromDifferentOrg\":true,\"allowSparkServiceOrgProxy\":false,\"isCiscoSupport\":false,\"isCiscoHelp\":false,\"logoUrl\":\"https://2018215606e6c131b7de-c50360586b2877758e015bf318f78e03.ssl.cf1.rackcdn.com/e41e216d-3159-455a-aeb5-aaf4e61243ff/branding/logos/customerLogo.png\",\"usePartnerLogo\":false,\"allowCustomerLogos\":false,\"supportProviderCompanyName\":\"Atlas_Test_BSFT_FLEX_PARTNER_DND\",\"sipCloudDomain\":\"sclara.wbx2.com\",\"isEFT\":false,\"allowReadOnlyAccess\":true,\"defaultCalendarWebexAction\":\"PERSONAL_ROOM\",\"defaultCalendarMeetAction\":\"TEAMS_SPACE\",\"defaultCalendarLocalization\":\"NONE\",\"calSvcDisableEmailSendingToEndUser\":false,\"allowCrashLogUpload\":true,\"useCiscoUrlForCloudFiles\":false,\"clientSecurityPolicy\":\"off\",\"sparkDataRetentionDays\":0,\"intranetInactivityDuration\":-1,\"collectPathIPAddresses\":true,\"sparkCallBaseDomain\":\"huron-int.com\",\"bcBaseDomain\":\"proxy-tier3.broadcloudpbx.net\",\"isBroadCloudVar\":false,\"isMediaFusionFullQualityVideo\":false,\"isMediaFusionEnabled\":false,\"isMediaFusionQosEnabled\":false,\"isMediaFusionEncrypted\":false,\"blockExternalCommunications\":false,\"autoLicenseAssignment\":false,\"allowCustomerSiteManagement\":false,\"meetingDialEnabled\":false,\"clientMessagingGiphy\":\"ALLOW\",\"clientMessagingLinkPreview\":\"ALLOW\",\"ecmEnabledForAllUsers\":false,\"ecmScreenCaptureFeatureAllowed\":false,\"ecmWhiteboardFileDataAllowed\":false,\"propagateEncryptionSettings\":false,\"defaultEcmMicrosoftCloud\":\"GLOBAL\"}"
+    ],
+    "ssoEnabled": false
+}

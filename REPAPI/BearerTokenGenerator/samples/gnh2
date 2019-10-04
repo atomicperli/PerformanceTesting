@@ -1,0 +1,93 @@
+1545155454
+{
+    "clusterId": "A52D",
+    "delegatedAdministration": true,
+    "dirsyncEnabled": false,
+    "displayName": "Atlas_Test_BCWC_Int_Partner_21",
+    "enforceVerifiedDomains": false,
+    "estimatedMachineSize": 0,
+    "estimatedUserSize": 1,
+    "geoGroup": "North America",
+    "id": "3758b9c8-f991-461a-a168-38e539b2a658",
+    "isPartner": true,
+    "isTestOrg": true,
+    "manages": [
+        {
+            "orgId": "a00ce3eb-664e-4f30-921a-30660299f4c9",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "c063da10-6088-450a-b5da-4d00d452e25d",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "8c53b816-222e-45b6-a2a2-399b71d796ac",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "549c33b3-384b-4ab3-bd55-199bb5753186",
+            "roles": [
+                "id_full_admin"
+            ]
+        }
+    ],
+    "meta": {
+        "created": "2018-12-11T13:45:39.845Z",
+        "lastModified": "2018-12-18T17:48:08.168Z",
+        "location": "https://identitybts.webex.com/organization/scim/v1/Orgs/3758b9c8-f991-461a-a168-38e539b2a658",
+        "version": "W/\"108223682977\""
+    },
+    "orgSettings": [
+        "{\"allowOnBehalfFromDifferentOrg\":true,\"allowSparkServiceOrgProxy\":false,\"isCiscoSupport\":false,\"isCiscoHelp\":false,\"usePartnerLogo\":false,\"allowCustomerLogos\":false,\"isEFT\":false,\"allowReadOnlyAccess\":true,\"defaultCalendarWebexAction\":\"PERSONAL_ROOM\",\"defaultCalendarMeetAction\":\"TEAMS_SPACE\",\"defaultCalendarLocalization\":\"NONE\",\"calSvcDisableEmailSendingToEndUser\":false,\"allowCrashLogUpload\":true,\"useCiscoUrlForCloudFiles\":false,\"collectPathIPAddresses\":true,\"broadCloudPartner\":\"VAR\",\"isMediaFusionFullQualityVideo\":false,\"isMediaFusionEnabled\":false,\"isMediaFusionQosEnabled\":false,\"isMediaFusionEncrypted\":false,\"blockExternalCommunications\":false,\"whiteboardFileShareControl\":\"BLOCK\",\"autoLicenseAssignment\":false,\"allowCustomerSiteManagement\":false,\"meetingDialEnabled\":false,\"clientMessagingGiphy\":\"ALLOW\",\"clientMessagingLinkPreview\":\"ALLOW\",\"ecmEnabledForAllUsers\":false,\"ecmScreenCaptureFeatureAllowed\":true,\"ecmWhiteboardFileDataAllowed\":true,\"onPremisePairingEnabled\":false,\"propagateEncryptionSettings\":false,\"defaultEcmMicrosoftCloud\":\"GLOBAL\"}"
+    ],
+    "schemas": [
+        "urn:cisco:codev:identity:organization:core:1.0"
+    ],
+    "selfSubscribeServices": [
+        "spark-test-account",
+        "squared-call-initiation",
+        "spark-admin",
+        "webex-squared",
+        "meetings",
+        "squared-onbehalf-of",
+        "squared-fusion-mgmt",
+        "squared-fusion-cal",
+        "spark-hybrid-impinterop",
+        "squared-room-monitoring",
+        "squared-fusion-uc",
+        "squared-fusion-ec",
+        "squared-fusion-servicability",
+        "squared-fusion-gcal",
+        "squared-room-moderation",
+        "bc-sp-standard"
+    ],
+    "services": [
+        "spark-test-account",
+        "squared-call-initiation",
+        "spark-admin",
+        "spark",
+        "webex-squared",
+        "atlas-portal",
+        "meetings",
+        "contact-center-context",
+        "squared-onbehalf-of",
+        "squared-fusion-mgmt",
+        "squared-fusion-cal",
+        "spark-hybrid-impinterop",
+        "squared-room-monitoring",
+        "squared-fusion-uc",
+        "squared-fusion-ec",
+        "squared-fusion-servicability",
+        "squared-fusion-gcal",
+        "squared-room-moderation",
+        "bc-sp-standard"
+    ],
+    "ssoEnabled": false,
+    "zone": "AllZone"
+}

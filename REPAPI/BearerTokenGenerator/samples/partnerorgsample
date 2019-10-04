@@ -1,0 +1,737 @@
+1543418836
+{
+    "clusterId": "A52D",
+    "delegatedAdministration": true,
+    "dirsyncEnabled": false,
+    "displayName": "Atlas_Test_BSFT_FLEX_PARTNER_DND",
+    "enforceVerifiedDomains": false,
+    "estimatedMachineSize": 0,
+    "estimatedUserSize": 2,
+    "geoGroup": "North America",
+    "id": "0d99e9a4-3b30-4d54-8e5f-834ac70fb064",
+    "isPartner": true,
+    "isTestOrg": true,
+    "manages": [
+        {
+            "orgId": "20f00db7-db28-42f8-a2a6-0ecdd34a65f9",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "1c7bace2-7d14-47ef-b197-27ea34f243db",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "6298a3e6-28fd-4a3b-9f16-2ecc8046fe25",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "4d156557-e894-4a0d-ac3a-f82250391800",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "83887d16-e834-4e6b-a703-3c8180efda40",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "89be59f8-58d3-4790-aa66-d9bda5244575",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "641aff72-0045-4770-872b-6990e9d1771f",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "ec33f096-4d8c-4981-a5b8-4a6e6764b6c6",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "60331151-4b3e-496d-80a0-08bd3ad1c0c9",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "f90682c0-700a-4b2f-a49e-5820d2a124ea",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "36fa64b5-3447-4189-9008-265e5b453ad1",
+            "roles": [
+                "id_full_admin",
+                "atlas-portal.partner.provision_admin"
+            ]
+        },
+        {
+            "orgId": "0bb62575-be30-420b-b66a-8af9a5c0c967",
+            "roles": [
+                "id_full_admin",
+                "atlas-portal.partner.provision_admin"
+            ]
+        },
+        {
+            "orgId": "333e42fc-5f5c-4da6-bfa4-13141abae23c",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "8f7a312a-2d80-4bed-9726-f34599b87346",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "f7a8731d-ced8-4342-8126-d4d2b662da2f",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "da723b7a-a517-46d7-976f-3ab683f91dd4",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "64997b65-8174-4565-9195-3673980b83dc",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "5786b411-e0da-4333-9dc6-627ecda5e6f5",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "15df870d-2c1c-417a-9955-94f128e61e19",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "8adc5d77-2b75-409f-bef2-e1b432f8bec7",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "9583aee5-7b19-4ae4-a8f8-8917c22820c7",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "ce2fafe3-8f0c-424e-8d2e-d24fe3d5d5c3",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "85ef8c21-0148-4e5a-a9e2-fba1b1f8d2be",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "9ecb9437-33f6-45c2-83d6-55b41dc745ab",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "3a8741cd-caf6-401a-80e9-b2e2e80365b5",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "31426aab-a8d3-4b2b-8c0c-f1d0887d6c33",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "2c760a58-0ea9-49b2-8a0f-d62957b5a942",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "a70b93ed-a7a1-472b-a5b9-b11422c57130",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "62fc9746-de00-40c0-ba19-d1d56f2fffe2",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "16747ed9-eff7-4b28-bb6d-1584da323213",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "d19aba7a-e357-4fd8-9f4d-185074a253c0",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "2bd93cbf-4c55-4c5c-b462-e87a289e2137",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "6bf6f04b-2512-40a2-8dda-2f1f0bb73b3c",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "ae5de07e-840e-44bb-827c-5408eba6009c",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "ab11ff12-4c8a-4a48-9b99-55015172a95a",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "b876b2e6-226c-45c0-ba13-dd65bb99c926",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "e41e216d-3159-455a-aeb5-aaf4e61243ff",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "2bab450d-8651-4548-9932-7df0e7847b63",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "c7ec7f2e-8608-4f20-8c9f-4493ce307db2",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "509bbc82-f797-42be-b110-6c8c8889d463",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "55307cc8-0f4d-4c9c-a2b0-ad885e3d2fac",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "2beb324a-a5c0-4743-b84c-6895460a2707",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "3895c7cb-08c3-4d9f-8c5c-1cbef55b36ed",
+            "roles": [
+                "id_full_admin",
+                "id_readonly_admin"
+            ]
+        },
+        {
+            "orgId": "7adfc7b0-397b-4e24-93db-90f2d68a35f8",
+            "roles": [
+                "id_full_admin",
+                "atlas-portal.partner.provision_admin"
+            ]
+        },
+        {
+            "orgId": "fd50e78c-6941-47c2-a060-e6fd8cf5a5ff",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "9754950c-9a5d-40d8-bc00-1dde2efafcca",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "8b82b240-0bce-4aa9-ab3d-6f56a629bf2d",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "69ece6a2-7479-49eb-88d4-ee879026a6c2",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "ec46d9a3-f40c-48e8-87fb-39310cfb4c7d",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "e0bd21cc-3ab8-41cd-b6e9-31c5de79cb45",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "7d46c4fe-1a4a-4e3e-8657-69c758e7789b",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "400937bb-fb4b-4234-9210-e6927e429e83",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "9d171d43-263e-44c2-ab8b-6e70e6b79f26",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "95363f4f-46bc-4b34-acfe-ead4ed2fb2e1",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "0eec8366-b60a-4ea8-89b8-278619aaf2ab",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "72efed88-d119-409e-aa30-3186d59896be",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "c026808b-0cf8-4e6e-b041-8413965a25fc",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "e57f0c57-f0dd-49e0-8df3-2fd3ff266e37",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "016928f1-b4a9-4d36-9a41-213a31c4d1a7",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "2c09bc3f-619d-4b72-a0ab-0c265d99cdfa",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "cd01c322-e976-41a7-aa71-bd770674b8f3",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "bfca88e6-b701-42c4-889e-6d0f700a7c5f",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "3991f0d4-4f19-4e86-8367-fe6b643b5387",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "99c82361-11c4-4cc0-b62b-3de91b5c0dca",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "e5a8ccf4-66cd-44ff-85cc-2dae23d65c67",
+            "roles": [
+                "id_full_admin",
+                "atlas-portal.partner.provision_admin"
+            ]
+        },
+        {
+            "orgId": "c9089728-a928-4351-bd22-f5c6ba5d36a3",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "0d913593-067b-400d-b238-d29ea1ce9d35",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "fb00f2b9-01f7-4091-9f40-03da45aff163",
+            "roles": [
+                "id_full_admin",
+                "id_readonly_admin"
+            ]
+        },
+        {
+            "orgId": "7021fc36-a438-4631-bc0f-431358181476",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "e95f49cf-b267-4b77-8687-1739ef75bb32",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "a2013f72-48ba-47ad-9d06-befbbc0f0043",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "96dcb737-1fd4-42a8-b78f-8281ab13cc33",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "adac42bf-bcbf-4b15-b390-03c50a34b53e",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "cb8506f9-9ae7-4f55-b0d8-a5e936ab9167",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "55a7f9c6-9ff6-46ff-909c-fc65777b242c",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "18b941ca-4f50-4c2a-bba2-23d5e04d9814",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "97a1ace4-10a7-402d-8a2f-4a01d665059d",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "0cc8c6ca-206f-4091-9789-012dbeebac09",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "4cc112ef-96bc-4d55-b6c0-5369976ce31b",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "7ddaa8f5-4f7e-4225-b7e5-1985f4311340",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "13ebb2d3-f8ec-420e-a20c-a5ae208f5064",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "61de67cc-8aad-4977-9662-4297cff655c3",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "9bfa19f8-0efa-440c-adb7-213cc435793c",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "4f433a0c-2f76-4988-926d-4e1ed6b51fab",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "02329e43-f03e-4ec2-89fe-cb949348ad0a",
+            "roles": [
+                "id_full_admin",
+                "atlas-portal.partner.provision_admin"
+            ]
+        },
+        {
+            "orgId": "be0cd20f-353d-4936-ba95-ad381b6320de",
+            "roles": [
+                "id_full_admin",
+                "atlas-portal.partner.provision_admin"
+            ]
+        },
+        {
+            "orgId": "321082c1-c481-41b9-a1b2-68205f29cd12",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "887efb8e-e531-40b5-9c5a-0ac7becf2733",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "a4e779a5-9da4-46e1-b673-2da92c25867a",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "3f3b01c9-7ada-4246-8dec-5f5c18b67854",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "d389f7f6-e774-469b-b956-e32db0a5c8ef",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "1c98458b-d295-4f8c-b686-45871560d8cf",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "a1373cb1-1cb9-45c0-a9b7-e8dd414d8571",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "c93645db-0d29-4904-9798-574733e1d9cf",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "7c2eec9d-6fce-4f09-9425-f51eda3a4d7a",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "a0583c00-6c2b-4770-87ae-9904e6994c33",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "e5ec3696-734b-46f9-b672-2a73bc26d174",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "5b98fbdf-ad98-4c54-9f42-fb3e46e73c87",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "a3973827-4c63-4e88-bd1d-59ecb016ee46",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "45eef119-0319-4f64-be88-7bd1e90cdc03",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "0f1f295f-4494-4a87-870c-064d19a19ab3",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "5e73c41f-0957-4a6c-8887-131389c85dda",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "324e49bb-910c-416d-8b5a-0ba0c3a53b7c",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "850fe43b-1fef-4ed7-af61-196e444f2ab5",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "087760bd-c80a-493a-80ae-3d57cdb17404",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "57d78d02-92c9-4c13-88d0-3bf652578e20",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "b0549528-15e8-4def-8378-d068c8cb946f",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "0bb513a3-6cdc-4544-b9ee-b1aaa75a43ba",
+            "roles": [
+                "id_full_admin"
+            ]
+        },
+        {
+            "orgId": "76b2c368-8fe6-485f-866d-8d07f66651a6",
+            "roles": [
+                "id_full_admin",
+                "atlas-portal.partner.provision_admin"
+            ]
+        },
+        {
+            "orgId": "3a6f5a47-1ade-446d-b439-c00cf0c23f5a",
+            "roles": [
+                "id_full_admin",
+                "atlas-portal.partner.provision_admin"
+            ]
+        }
+    ],
+    "meta": {
+        "created": "2018-08-09T22:26:35.182Z",
+        "lastModified": "2018-11-01T13:11:11.234Z",
+        "location": "https://identitybts.webex.com/organization/scim/v1/Orgs/0d99e9a4-3b30-4d54-8e5f-834ac70fb064",
+        "version": "W/\"105962251460\""
+    },
+    "orgSettings": [
+        "{\"allowOnBehalfFromDifferentOrg\":true,\"allowSparkServiceOrgProxy\":false,\"isCiscoSupport\":false,\"isCiscoHelp\":false,\"usePartnerLogo\":false,\"allowCustomerLogos\":false,\"isEFT\":false,\"allowReadOnlyAccess\":true,\"defaultCalendarWebexAction\":\"PERSONAL_ROOM\",\"defaultCalendarMeetAction\":\"TEAMS_SPACE\",\"useCiscoUrlForCloudFiles\":false,\"collectPathIPAddresses\":true,\"isMediaFusionFullQualityVideo\":false,\"isMediaFusionEnabled\":false,\"isMediaFusionQosEnabled\":false,\"blockExternalCommunications\":false,\"whiteboardFileShareControl\":\"BLOCK\",\"autoLicenseAssignment\":false,\"allowCustomerSiteManagement\":false,\"meetingDialEnabled\":false,\"propagateEncryptionSettings\":false}"
+    ],
+    "schemas": [
+        "urn:cisco:codev:identity:organization:core:1.0"
+    ],
+    "selfSubscribeServices": [
+        "spark-test-account",
+        "squared-call-initiation",
+        "spark-admin",
+        "webex-squared",
+        "meetings",
+        "squared-onbehalf-of",
+        "squared-fusion-mgmt",
+        "squared-fusion-cal",
+        "spark-hybrid-impinterop",
+        "squared-room-monitoring",
+        "squared-fusion-uc",
+        "squared-fusion-ec",
+        "squared-fusion-servicability",
+        "squared-fusion-gcal",
+        "cloudMeetings"
+    ],
+    "services": [
+        "spark-test-account",
+        "squared-call-initiation",
+        "spark-admin",
+        "spark",
+        "webex-squared",
+        "atlas-portal",
+        "meetings",
+        "contact-center-context",
+        "squared-onbehalf-of",
+        "squared-fusion-mgmt",
+        "squared-fusion-cal",
+        "spark-hybrid-impinterop",
+        "squared-room-monitoring",
+        "squared-fusion-uc",
+        "squared-fusion-ec",
+        "squared-fusion-servicability",
+        "squared-fusion-gcal",
+        "cloudMeetings"
+    ],
+    "ssoEnabled": false,
+    "zone": "AllZone"
+}

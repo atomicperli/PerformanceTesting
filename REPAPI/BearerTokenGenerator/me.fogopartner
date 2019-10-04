@@ -1,0 +1,168 @@
+1534775456
+{
+    "active": true,
+    "adminTrainSiteNames": [
+        "FlexcustomerLiem.webex.com",
+        "Flexcustomerforliem.webex.com"
+    ],
+    "avatarSyncEnabled": false,
+    "displayName": "Fogo",
+    "emails": [
+        {
+            "primary": true,
+            "type": "work",
+            "value": "fogo21sanjose+wow@gmail.com"
+        }
+    ],
+    "entitlements": [
+        "cloudmeetings",
+        "spark",
+        "spark-admin",
+        "spark-test-account",
+        "squared-call-initiation",
+        "squared-fusion-mgmt",
+        "squared-room-moderation",
+        "webex-squared"
+    ],
+    "id": "4cc6a851-b9c2-4b6d-ab5f-c812de9df395",
+    "licenseID": [
+        "MS_dab7ffd5-d4fc-479a-9137-00f67f213af3"
+    ],
+    "managedOrgs": [
+        {
+            "orgId": "67253b5c-d613-44aa-9ab6-c63eb758cf1f",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "93ae2bed-4414-46d5-94c3-44151a2d0fef",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "f715e5fa-8634-429c-9c47-e258b247a96a",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "39e6117a-5b41-4a69-a1bf-fdb09b8cc010",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "d364e436-97a9-407e-b019-39a45b199226",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "a4082387-26da-4485-b2da-e7e283f7eac6",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "fe2ace9c-4da9-46d7-adce-08856439c102",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "8928ee13-9987-4997-9f43-7119e2dedbb7",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "5af61d74-bc5b-467c-8363-f96f7f4dda37",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "e756dea5-5a29-46db-ba38-4332a3f2891c",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "0d18a3c0-6e02-4baa-a2c9-8a1592f148ae",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "53eeea93-25f4-46e8-913c-46c1655b14f8",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "d8d4810e-d91e-4400-98b0-785f8e58a161",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "9a277f14-b77d-4eb0-844f-cce2b79e1819",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "747727a7-819d-4d85-83c6-7a1f643c074e",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "670261a4-5a1c-4c28-b78b-9b3b31f51c14",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "cd60a09a-e769-4beb-b420-7471e3083905",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "7c539ab6-2faa-4b6a-9845-6fb16e40a5e5",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "89ded7cd-ee2f-45f6-a17c-7450fa88c646",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "7842be95-67d7-4445-8af6-a78186048920",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "83611a33-47fe-4513-b8e3-5f193bd8f744",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "289799bf-7371-4736-9281-a79731edbbb8",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "653b67f8-56fc-44b3-8f0c-783546c67c7a",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "30dbfcca-dbca-4d29-ac4a-f2697d575828",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "a069c090-8aeb-4cca-a5e2-e6ea2cc56f93",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "6bacd3fd-3656-43ec-b852-cc2928e3fd47",
+            "role": "id_full_admin"
+        },
+        {
+            "orgId": "8da37e38-552b-4039-8a2e-e458c38a01f7",
+            "role": "id_full_admin"
+        }
+    ],
+    "meta": {
+        "created": "2018-07-16T20:47:54.595Z",
+        "lastLoginTime": "2018-08-20T14:25:00.179Z",
+        "lastModified": "2018-08-20T14:07:36.773Z",
+        "location": "https://identitybts.webex.com/identity/scim/6e09fcb9-6b8b-4101-8bf8-16e3f2dedbac/v1/Users/4cc6a851-b9c2-4b6d-ab5f-c812de9df395",
+        "organizationID": "6e09fcb9-6b8b-4101-8bf8-16e3f2dedbac",
+        "version": "W/\"132744408711\""
+    },
+    "roles": [
+        "id_full_admin"
+    ],
+    "schemas": [
+        "urn:scim:schemas:core:1.0",
+        "urn:scim:schemas:extension:cisco:commonidentity:1.0"
+    ],
+    "secretKey": "73495070f2154eb0838fcff47692ede188b553cabc2424fb416b79b79ee880ef242d24dd9544f6ba671196baf7bb4475e1e0adc491773514c105c5833dd36c99",
+    "trainSiteNames": [
+        "Flexcustomerforliem.webex.com",
+        "FlexcustomerLiem.webex.com"
+    ],
+    "userName": "fogo21sanjose+wow@gmail.com",
+    "userPreferences": [
+        "SparkTOSAccept"
+    ],
+    "userSettings": [
+        "{\"spark.signUpDate\":\"1531774110125\"}"
+    ]
+}

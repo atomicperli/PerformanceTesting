@@ -15,7 +15,6 @@ class AlternateNumberList extends Simulation {
   // Requests
   val AlternateNumberList = http("Get the List of all Alternate numbers")
     .get("/customers/" + Constants.CustID + "/sites/" + Constants.SiteID + "/features/alternatenumbers")
-    .basicAuth(Constants.Username, Constants.Password)
     .check(status is 200)
     .check(jsonPath("$..total").ofType[Int])
 

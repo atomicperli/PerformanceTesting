@@ -1,0 +1,15 @@
+#!/bin/bash
+
+
+bearertoken=`./userAuth "$1" "$2" | grep 'bearerToken' | cut -f2 -d " "`
+
+url="https://identitybts-eu.webex.com/identity/scim/v1/Users/me"
+
+start=$(date +%s)
+echo $start
+
+header="Content-type:application/json"
+header2="accept: application/json"
+authheader="Authorization: Bearer "$bearertoken""
+
+curl -X GET -vvv -k  -H "$header" -H "$header2" -H "$authheader" $url | python -mjson.tool

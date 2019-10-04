@@ -1,0 +1,81 @@
+1545146353
+{
+    "clusterId": "A52D",
+    "countryCode": "US",
+    "dirsyncEnabled": false,
+    "displayName": "Mattresses For Days",
+    "enforceVerifiedDomains": false,
+    "estimatedMachineSize": 0,
+    "estimatedUserSize": 1,
+    "geoGroup": "North America",
+    "id": "15a182a7-faf3-4f90-8203-acdeeb9f2e0f",
+    "isTestOrg": true,
+    "managedBy": [
+        {
+            "orgId": "6e09fcb9-6b8b-4101-8bf8-16e3f2dedbac",
+            "roles": [
+                "id_full_admin"
+            ]
+        }
+    ],
+    "managedByUser": [
+        {
+            "id": "4cc6a851-b9c2-4b6d-ab5f-c812de9df395",
+            "roles": [
+                "id_full_admin"
+            ]
+        }
+    ],
+    "meta": {
+        "created": "2018-08-24T15:43:54.842Z",
+        "lastModified": "2018-09-21T10:42:31.265Z",
+        "location": "https://identitybts.webex.com/organization/scim/v1/Orgs/15a182a7-faf3-4f90-8203-acdeeb9f2e0f",
+        "version": "W/\"107634911663\""
+    },
+    "orgSettings": [
+        "{\"reportingSiteUrl\":\"\",\"reportingSiteDesc\":\"\",\"allowOnBehalfFromDifferentOrg\":true,\"allowSparkServiceOrgProxy\":true,\"isCiscoSupport\":true,\"isCiscoHelp\":true,\"logoUrl\":\"https://2018215606e6c131b7de-c50360586b2877758e015bf318f78e03.ssl.cf1.rackcdn.com/1a26b007-8a76-421f-9d03-f94818441806/branding/logos/customerLogo.png\",\"usePartnerLogo\":false,\"allowCustomerLogos\":true,\"supportProviderLogoUrl\":\"https://2018215606e6c131b7de-c50360586b2877758e015bf318f78e03.ssl.cf1.rackcdn.com/c1e59258-29e1-42d7-bfa7-84ab26632b46/branding/logos/customerLogo.png\",\"supportProviderCompanyName\":\"DND - CS Rep Integration Test Org\",\"isEFT\":false,\"allowReadOnlyAccess\":true,\"defaultCalendarWebexAction\":\"PERSONAL_ROOM\",\"defaultCalendarMeetAction\":\"TEAMS_SPACE\",\"defaultCalendarLocalization\":\"NONE\",\"calSvcDisableEmailSendingToEndUser\":false,\"allowCrashLogUpload\":true,\"useCiscoUrlForCloudFiles\":false,\"sparkDataRetentionDays\":-1,\"intranetInactivityDuration\":-1,\"collectPathIPAddresses\":true,\"sparkCallBaseDomain\":\"huron-int.com\",\"bcBaseDomain\":\"proxy-int.broadcloudpbx.net\",\"isMediaFusionFullQualityVideo\":false,\"isMediaFusionEnabled\":false,\"isMediaFusionQosEnabled\":false,\"isMediaFusionEncrypted\":false,\"blockExternalCommunications\":false,\"autoLicenseAssignment\":false,\"allowCustomerSiteManagement\":false,\"meetingDialEnabled\":false,\"clientMessagingGiphy\":\"ALLOW\",\"clientMessagingLinkPreview\":\"ALLOW\",\"propagateEncryptionSettings\":false}"
+    ],
+    "schemas": [
+        "urn:cisco:codev:identity:organization:core:1.0"
+    ],
+    "selfSubscribeServices": [
+        "spark-test-account",
+        "bc-sp-common-area",
+        "bc-sp-standard",
+        "meetings",
+        "squared-onbehalf-of",
+        "squared-fusion-mgmt",
+        "squared-fusion-cal",
+        "spark-hybrid-impinterop",
+        "squared-room-monitoring",
+        "squared-fusion-uc",
+        "squared-fusion-ec",
+        "squared-fusion-gcal",
+        "squared-call-initiation",
+        "spark",
+        "spark-admin",
+        "webex-squared"
+    ],
+    "services": [
+        "spark-test-account",
+        "bc-sp-common-area",
+        "bc-sp-standard",
+        "atlas-portal",
+        "meetings",
+        "squared-onbehalf-of",
+        "squared-fusion-mgmt",
+        "squared-fusion-cal",
+        "spark-hybrid-impinterop",
+        "squared-room-monitoring",
+        "squared-fusion-uc",
+        "squared-fusion-ec",
+        "squared-fusion-gcal",
+        "squared-call-initiation",
+        "spark",
+        "spark-admin",
+        "webex-squared",
+        "ciscobc"
+    ],
+    "ssoEnabled": false,
+    "zone": "AllZone"
+}
