@@ -14,7 +14,7 @@ class CustomerAdminSiteListSiteName extends Simulation{
   
   // Requests
   val getCustomerAdminAvailableSiteListt = http("Get the Customer Admin's Site Details")
-    .get("/customers/" + Constants.CustID + "/admin/sitelist/" + Constants.CustomerAdminPartyID +"/site/" + Constants.SiteName)
+    .get("/customers/" + Constants.CustID + "/admin/sitelist/" + Constants.CustomerAdminPartyID +"/site/" + Constants.CustomerAdminPartyID)
     .check(status is 200)
     .check(jsonPath("$..total").ofType[Int])
 
