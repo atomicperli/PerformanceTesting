@@ -3,6 +3,7 @@ package Simulations.AdminResource
 import io.gatling.core.Predef._
 import io.gatling.http.Predef._
 import CommonConfig.Constants
+import com.typesafe.config.ConfigFactory
 
 class CustomerAdminAddress extends Simulation{
 
@@ -11,6 +12,7 @@ class CustomerAdminAddress extends Simulation{
 * REQUEST METHOD - GET
 * REQUEST URL - https://<TEST_VENUE>/enterpriseportalapi/v1.0/customers/{customerId}/admin/address/{partyId}
 */
+
   
   // Requests
   val getCustomerAdminAddress = http("Get the Customer Admin's Address")
