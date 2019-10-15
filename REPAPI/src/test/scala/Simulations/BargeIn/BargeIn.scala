@@ -13,13 +13,13 @@ class BargeIn extends Simulation{
 */
   
   // Requests
-  val getBargeIn = http("Get the Users with BargeIn Feature")
+  val getBargeIn = http("GET the Users with BargeIn Feature")
     .get("/customers/" + Constants.CustID + "/sites/" + Constants.SiteID + "/features/bargein")
     .check(status is 200)
     .check(bodyBytes.exists)
 
   // Scenario
-  val getBargeInScenario = scenario("Get the Users with BargeIn Feature Scenario")
+  val getBargeInScenario = scenario("GET the Users with BargeIn Feature Scenario")
   .exec(getBargeIn)
           
   // Setup
