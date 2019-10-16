@@ -12,29 +12,211 @@ object Constants {
   //Select Data
   val TestModel = System.getProperty("TestModel", "Micro")
   val usercount = Integer.getInteger("numberOfUsers", 1).toInt
-  val envtype = System.getProperty("envType", "QA")
+  val envtype = System.getProperty("envType", "INT")
 
   val CustomerType = System.getProperty("CustomerType", "NonFlex")
   val Token_Value = "Mjk0ZDI0ZDYtMDFkNi00ZDcyLWJmNmItNzViMTQyMWY1NjNhM2EyMWE3YzgtNGNk_A52D_dfbc2a5a-8552-4903-bcca-5dec35af54d2"
   val Bearertoken = "Bearer " + Token_Value
   
-  val UsernameBuilder = (TestModel.concat(".").concat("Username.value")).toString()
-  val PasswordBuilder = (TestModel.concat(".").concat("Password.value")).toString()
-  val CustIDBuilder = (TestModel.concat(".").concat("CustID.value")).toString()
-  val SiteIDBuilder = (TestModel.concat(".").concat("SiteID.value")).toString()
-  val CCUserIDBuilder = (TestModel.concat(".").concat("CCUserID.value")).toString()
-  val FirstNameBuilder = (TestModel.concat(".").concat("FirstName.value")).toString()
-  val OrderIDBuilder = (TestModel.concat(".").concat("OrderID.value")).toString()
-  val CustomerAdminPartyIDBuilder = (TestModel.concat(".").concat("CustomerAdminPartyID.value")).toString()
+//  val UsernameBuilder = (TestModel.concat(".").concat("Username.value")).toString()
+//  val PasswordBuilder = (TestModel.concat(".").concat("Password.value")).toString()
+//  val CustIDBuilder = (TestModel.concat(".").concat("CustID.value")).toString()
+//  val SiteIDBuilder = (TestModel.concat(".").concat("SiteID.value")).toString()
+//  val CCUserIDBuilder = (TestModel.concat(".").concat("CCUserID.value")).toString()
+//  val FirstNameBuilder = (TestModel.concat(".").concat("FirstName.value")).toString()
+//  val OrderIDBuilder = (TestModel.concat(".").concat("OrderID.value")).toString()
+//  val CustomerAdminPartyIDBuilder = (TestModel.concat(".").concat("CustomerAdminPartyID.value")).toString()
+//  
+//  val Username = ConfigFactory.load(envtype).getString(UsernameBuilder)
+//  val Password = ConfigFactory.load(envtype).getString(PasswordBuilder)
+//  val CustID = ConfigFactory.load(envtype).getString(CustIDBuilder)
+//  val SiteID = ConfigFactory.load(envtype).getString(SiteIDBuilder)
+//  val FirstName = ConfigFactory.load(envtype).getString(FirstNameBuilder)
+//  val CCUserID = ConfigFactory.load(envtype).getString(CCUserIDBuilder)
+//  val OrderID = ConfigFactory.load(envtype).getString(OrderIDBuilder)
+//  val CustomerAdminPartyID = ConfigFactory.load(envtype).getString(CustomerAdminPartyIDBuilder)
   
-  val Username = ConfigFactory.load(envtype).getString(UsernameBuilder)
-  val Password = ConfigFactory.load(envtype).getString(PasswordBuilder)
-  val CustID = ConfigFactory.load(envtype).getString(CustIDBuilder)
-  val SiteID = ConfigFactory.load(envtype).getString(SiteIDBuilder)
-  val FirstName = ConfigFactory.load(envtype).getString(FirstNameBuilder)
-  val CCUserID = ConfigFactory.load(envtype).getString(CCUserIDBuilder)
-  val OrderID = ConfigFactory.load(envtype).getString(OrderIDBuilder)
-  val CustomerAdminPartyID = ConfigFactory.load(envtype).getString(CustomerAdminPartyIDBuilder)
+  val Username = envtype match {
+    case "QA" => TestModel match
+    {
+      case "Micro" => "AutoMicroCustomer2-PerformanceTesting"
+      case "MediumB" => "AutoMediumCustomer1-PerformanceTesting"
+      case "MediumA" => "AutoLargeCustomer3SingleSite-PerformanceTesting"
+      case "SmallA" => "AutoSmallCustomer2-PerformanceTesting"
+      case "LargeA" => "AutoLargeCustomerA-PerformanceTesting"
+      case "LargeFlex" => "573d3504-6669-4dc1-b695-0be860e2f2d4"
+      case _ => "RialtoAutomationCustomer"
+    }
+    case "INT" => TestModel match
+    {
+      case "Micro" => "AutoMicroCustomer2-PerformanceTesting"
+      case "MediumB" => "AutoMediumCustomer1-PerformanceTesting"
+      case "MediumA" => "AutoLargeCustomer3SingleSite-PerformanceTesting"
+      case "SmallA" => "AutoSmallCustomer2-PerformanceTesting"
+      case "LargeA" => "AutoLargeCustomerA-PerformanceTesting"
+      case "LargeFlex" => "573d3504-6669-4dc1-b695-0be860e2f2d4"
+      case _ => "RialtoAutomationCustomer"
+    }
+  }
+  
+  val Password = envtype match {
+    case "QA" => TestModel match
+    {
+      case "Micro" => "Cisco!234567"
+      case "MediumB" => "Cisco!234567"
+      case "MediumA" => "Cisco!234567"
+      case "SmallA" => "Cisco!2345678"
+      case "LargeA" => "Cisco!23456"
+      case "LargeFlex" => "Cisco!2345"
+      case _ => "Broad!2345"
+    }
+    case "INT" => TestModel match
+    {
+      case "Micro" => "Cisco!234567"
+      case "MediumB" => "Cisco!234567"
+      case "MediumA" => "Cisco!234567"
+      case "SmallA" => "Cisco!2345678"
+      case "LargeA" => "Cisco!23456"
+      case "LargeFlex" => "Cisco!2345"
+      case _ => "Broad!2345"
+    }
+  }
+  
+  val CustID = envtype match {
+    case "QA" => TestModel match
+    {
+      case "Micro" => "578473"
+      case "MediumB" => "572901"
+      case "MediumA" => "579915"
+      case "SmallA" => "578510"
+      case "LargeA" => "597131"
+      case "LargeFlex" => "599945"
+      case _ => "32760"
+    }
+    case "INT" => TestModel match
+    {
+      case "Micro" => "578473"
+      case "MediumB" => "572901"
+      case "MediumA" => "579915"
+      case "SmallA" => "578510"
+      case "LargeA" => "597131"
+      case "LargeFlex" => "599945"
+      case _ => "32760"
+    }
+  }
+  
+  val SiteID = envtype match {
+    case "QA" => TestModel match
+    {
+      case "Micro" => "578474"
+      case "MediumB" => "588689"
+      case "MediumA" => "579916"
+      case "SmallA" => "578563"
+      case "LargeA" => "597132"
+      case "LargeFlex" => "600164"
+      case _ => "34249"
+    }
+    case "INT" => TestModel match
+    {
+      case "Micro" => "578474"
+      case "MediumB" => "588689"
+      case "MediumA" => "579916"
+      case "SmallA" => "578563"
+      case "LargeA" => "597132"
+      case "LargeFlex" => "600164"
+      case _ => "34249"
+    }
+  }
+  
+  val CCUserID = envtype match {
+    case "QA" => TestModel match
+    {
+      case "Micro" => "zf07xdcafz@sboxqa.adpt-tech.com"
+      case "SmallA" => "xft5wrclv0@sboxqa.adpt-tech.com"
+      case "MediumA" => "absh9ks9ub@sboxqa.adpt-tech.com"
+      case "MediumB" => "ai97hulh9p@sboxqa.adpt-tech.com"
+      case "LargeA" => "rhabmf6azz@sboxqa.adpt-tech.com"
+      case "LargeFlex" => "cew40yww8l@sboxqa.adpt-tech.com"
+      case _ => "2514606019@sboxqa.adpt-tech.com"
+    }
+    case "INT" => TestModel match
+    {
+      case "Micro" => "zf07xdcafz@sboxqa.adpt-tech.com"
+      case "SmallA" => "xft5wrclv0@sboxqa.adpt-tech.com"
+      case "MediumA" => "absh9ks9ub@sboxqa.adpt-tech.com"
+      case "MediumB" => "ai97hulh9p@sboxqa.adpt-tech.com"
+      case "LargeA" => "rhabmf6azz@sboxqa.adpt-tech.com"
+      case "LargeFlex" => "cew40yww8l@sboxqa.adpt-tech.com"
+      case _ => "2514606019@sboxqa.adpt-tech.com"
+    }
+  }
+    
+  val FirstName = envtype match {
+    case "QA" => TestModel match
+    {
+      case "Micro" => "Micro"
+      case "MediumB" => "L3SS1"
+      case "MediumA" => "L3SS1User"
+      case "SmallA" => "Small2Site"
+      case "LargeA" => "L3SS1"
+      case "LargeFlex" => "WS"
+      case _ => "Automa"
+    }
+    case "INT" => TestModel match
+    {
+      case "Micro" => "Micro"
+      case "MediumB" => "L3SS1"
+      case "MediumA" => "L3SS1User"
+      case "SmallA" => "Small2Site"
+      case "LargeA" => "L3SS1"
+      case "LargeFlex" => "WS"
+      case _ => "Automa"
+    }
+  }
+      
+  val OrderID = envtype match {
+    case "QA" => TestModel match
+    {
+      case "Micro" => "WS236536"
+      case "MediumB" => "WS241053"
+      case "MediumA" => "WS236974"
+      case "SmallA" => "WS236566"
+      case "LargeA" => "WS244880"
+      case "LargeFlex" => "WS246172"
+      case _ => "Automa"
+    }
+    case "INT" => TestModel match
+    {
+      case "Micro" => "WS236536"
+      case "MediumB" => "WS241053"
+      case "MediumA" => "WS236974"
+      case "SmallA" => "WS236566"
+      case "LargeA" => "WS244880"
+      case "LargeFlex" => "WS246172"
+      case _ => "Automa"
+    }
+  }
+        
+  val CustomerAdminPartyID = envtype match {
+    case "QA" => TestModel match
+    {
+      case "Micro" => "618947"
+      case "MediumB" => "618938"
+      case "MediumA" => "618933"
+      case "SmallA" => "618950"
+      case "LargeA" => "618949"
+      case _ => "Automa"
+    }
+    case "INT" => TestModel match
+    {
+      case "Micro" => "618947"
+      case "MediumB" => "618938"
+      case "MediumA" => "618933"
+      case "SmallA" => "618950"
+      case "LargeA" => "618949"
+      case _ => "Automa"
+    }
+  }
   val httpProtocol = envtype match {
       case "QA" => CustomerType match 
       {
