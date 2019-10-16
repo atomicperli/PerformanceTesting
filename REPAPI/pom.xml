@@ -127,6 +127,7 @@
         <artifactId>gatling-maven-plugin</artifactId>
         <version>${gatling-maven-plugin.version}</version>
                 <configuration>
+				<configFolder>src/test/resources</configFolder>
                 <runMultipleSimulations>true</runMultipleSimulations>
 				<continueOnAssertionFailure>true</continueOnAssertionFailure>
                 <jvmArgs>
