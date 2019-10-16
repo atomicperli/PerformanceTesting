@@ -32,7 +32,7 @@ traversedirectory(dir)
 for dir in range(len(startspath)):
     # print startspath[dir]
     simulation = (re.split('[-]',startspath[dir].split(os.sep)[-3])[0] + "_" + jobname).lower()
-    print "Updating metrics for Simulation: ", simulation
+    print("Updating metrics for Simulation: ", simulation)
     # Deserializationg Json simulation stats
     with open(startspath[dir]) as f:
         statsjson = json.load(f)
